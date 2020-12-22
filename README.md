@@ -2,7 +2,13 @@
 
 * INSTALAÇÃO DO RCLONE
 
-apt-get install -y rclone
+# CONFIGURAÇÕES DO RCLONE
+
+* CONFIGURANDO O RCLONE
+
+rclone config
+
+https://rclone.org/drive/
 
 * COPIANDO ARQUIVO LOCAL PARA O GOOGLE DRIVER
 
